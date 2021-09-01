@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="=}@bw=)ID[506:bSr!C)" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="cGhMY*Vs)0l3r0Z6wCxS"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_forever" id=".SjIzCZsR9A7#$u^/P$}" x="288" y="-1"/><block type="bluetooth_on_connected" id="SB;@$BHFG_(:+1xuQ(m$" x="254" y="188"><statement name="HANDLER"><block type="device_show_leds" id="!k(h7jjb7U=wwE/Lk2E)"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # . 
+        # . # . . 
+        . # . . .
+        `</field></block></statement></block><block type="bluetooth_on_disconnected" id="^3hNsOG;,rHTQ/9E{D,W" x="516" y="194"><statement name="HANDLER"><block type="device_show_leds" id="}qPcW-.KI`9ShowIG6ZV"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field></block></statement></block></xml>
